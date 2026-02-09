@@ -1,0 +1,40 @@
+body{
+	overflow-x: hidden;
+	font: 400 1rem/1.7777777778 Open sans, system-ui, -apple-system, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+
+
+}
+.nav{
+	    box-sizing: border-box;
+	        border-radius: 4px;
+    background-color: #d5d5d5;
+    line-height: 1.5px;
+
+}
+
+.container-btn {
+            display: flex;
+            flex-direction: column; /* Align items vertically */
+            justify-content: center; /* Center items vertically */
+            height: 100vh; /* Adjust the height as needed */
+            text-align: center; /* Center text horizontally */
+        }
+
+        /* Style for the button */
+        .centered-button {
+            margin: 0 auto; /* Center the button horizontally */
+        }
+
+.faq-container{
+	display: block;
+    position: relative;
+    padding: 17.5px 20px;
+    padding-right: 64px;
+    color: #373f50;
+    width: 100%;
+}
